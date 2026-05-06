@@ -32,8 +32,8 @@ Transform:
   m_GameObject: {fileID: 5605358061029707714}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.9609, y: 0.5575, z: 0}
-  m_LocalScale: {x: 7.5, y: 7.539, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7334002491564082608}
@@ -187,7 +187,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController2D
   speed: 10
-  jumpForce: 7.5
+  jumpForce: 5
   maxJumps: 1
   groundCheck: {fileID: 5413343032583764637}
   checkRadius: 0.2
@@ -219,8 +219,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WallCling
   speed: 5
-  wallSlideSpeed: 2
-  jumpForce: 10
+  wallSlideSpeed: 5
+  jumpForce: 7.5
   wallCheck: {fileID: 6149226268250776454}
   checkRadius: 0.2
   wallLayer:
@@ -243,8 +243,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WallCling
   speed: 5
-  wallSlideSpeed: 2
-  jumpForce: 10
+  wallSlideSpeed: 5
+  jumpForce: 7.5
   wallCheck: {fileID: 7146117324667428520}
   checkRadius: 0.2
   wallLayer:
