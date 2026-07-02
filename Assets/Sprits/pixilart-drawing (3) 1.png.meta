@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a505273410409224aa4b9660f9e90b48
+guid: 7477c2b648bbb1a4b9958aa97ab8db27
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4070081457191761106
-    second: "But\xE3o_0"
+      213: -5781830229541099206
+    second: pixilart-drawing (3) 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -73,7 +73,7 @@ TextureImporter:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 1
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "But\xE3o_0"
+      name: pixilart-drawing (3) 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 32
+        width: 28
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2b4e299a7a2487c0800000000000000
-      internalID: -4070081457191761106
+      spriteID: a3966982a00d2cfa0800000000000000
+      internalID: -5781830229541099206
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "But\xE3o_0": -4070081457191761106
+      pixilart-drawing (3) 1_0: -5781830229541099206
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
